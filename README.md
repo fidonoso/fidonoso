@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/fidonoso](https://github.com/fidonoso)
 
-- 💬 Ask me about **JavaScript, Cloud, database, node, etc.**
+- 💬 Ask me about **JavaScript, Cloud, database, node, docker, MYSQL, Postgres, MongoDB, Bootstrap, Handlebars, React etc.**
 
 - 📫 How to reach me **fidonoso@gmail.com**
 
